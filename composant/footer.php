@@ -29,7 +29,7 @@
 
 </div>
 <div class="rights" >
-  © 2023 copyrights to <a target="_blank" href="http://esto.ump.ma/"><span class="italic">ESTO</span></a>
+  © 2024 copyrights to <a target="_blank" href="http://esto.ump.ma/"><span class="italic">ESTO</span></a>
 </div>
 
 
