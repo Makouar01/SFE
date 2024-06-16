@@ -28,9 +28,9 @@ Cette application web permet de gérer le matériel de manière efficace et sans
 - **Suivi des Emprunts** :
   - Suivi des emprunts en temps réel.
   - Historique des emprunts.
-  
+
 - **Géneration d'un raporrt PDF**
-  - Les admiistrateurs peut génerer raporrt PDF qui contiene des information de tous les empruntes efféctuer  
+  - Les admiistrateurs peuvent génerer raporrt PDF qui contiene des information de tous les empruntes efféctuer  
 ## Technologies Utilisées
 
 - **Frontend** :
