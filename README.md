@@ -51,3 +51,8 @@ Cette application web permet de gérer le matériel de manière efficace et sans
    ```sh
    git clone https://github.com/Makouar01/SFE.git
 
+
+## Contactez-moi
+
+- Pour toute question ou suggestion, vous pouvez me contacter à l'adresse suivante : [abderahimmakouar@gmail.com](mailto:abderahimmakouar@gmail.com).
+
