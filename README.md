@@ -3,7 +3,7 @@
 
 ## Description
 
-Cette application web permet de gérer les matérieles de manière efficace et sans recourir aux méthodes traditionnelles basées sur le papier. Elle facilite le suivi des emprunts et la demande de matériel, tout en permettant aux administrateurs de gérer les accès et de décider d'accepter ou de refuser les demandes.
+Cette application web permet de gérer les matérieles d'une manière efficace et sans recourir aux méthodes traditionnelles basées sur les papieres. Elle facilite le suivi des emprunts et la demande de matériel, tout en permettant aux administrateurs de gérer les accès et de décider d'accepter ou de refuser les demandes.
 
 ## Fonctionnalités
 
